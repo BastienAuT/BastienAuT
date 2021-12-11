@@ -64,6 +64,11 @@ Après cette formation, mon objectif est de trouver un stage, puis de une contin
 </div>
 
 
-
+## Me contacter
+<p>
+<a href="https://www.linkedin.com/in/bastien-autem/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bastien-autem/" alt="Bastien-Autem-linkedin"/></a>
+<a href="https://twitter.com/Dehcimal" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Dehcimal" alt="Bastien-A-twitter"/></a>
+ <a href="mailto:deh2win@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 
