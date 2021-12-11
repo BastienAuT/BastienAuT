@@ -23,7 +23,11 @@ Moi, je m'appelle Bastien, j'ai 31 ans et j'habite à dans le nord, près de Lil
 
 Passionné d'informatique et de tech, j'ai d'abord longtemps étudié de mon côté étant très autodidacte , puis, j'ai décidé de rejoindre l'école O'clock pour une formation Développeur Web et Web Mobile afin de parfaire mes connaissances.
 
-Après cette formation, mon objectif est de trouver un stage, puis de une continuer mes études en alternance ou travailler en tant que front-dev.
+Après cette formation, mon objectif est de trouver un stage, puis de continuer mes études en alternance ou travailler en tant que front-dev.
+
+Je suis bilingue donc do not hesitate to write to me i'll write back.
+
+On m'a un jour demandé de pull... je savais pas ce que c'était du coup .. j'ai imité la poule. 
 
 ## Technologies
 
