@@ -62,6 +62,6 @@ Après cette formation, mon objectif est de trouver un stage, puis de une contin
 
 
 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username={BastienAuT}&theme=blue-green
 
 
