@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Bienvenue sur mon profil GitHub !
 
-Je m'appelle Bastien, j'ai 31 ans et j'habite dans le nord, près de Lille.
+Je m'appelle Bastien, j'ai 32 ans et j'habite dans le nord, près de Lille.
 
 Passionné d'informatique et de tech, j'ai d'abord longtemps étudié de mon côté étant très autodidacte , puis, j'ai décidé de rejoindre l'école O'clock pour une formation Développeur Web et Web Mobile afin de parfaire mes connaissances.
 
